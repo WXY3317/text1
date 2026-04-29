@@ -10,6 +10,7 @@ public class caculate {
         return firstNum;
     }
     public void setFirstNum(String firstNum) {
+        
         this.firstNum = firstNum;
     }
     public char getOperator() {
