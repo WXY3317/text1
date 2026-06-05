@@ -7,12 +7,14 @@ public class caculate {
     private String secondNum = "0";
     private String result="0";
     public String getFirstNum() {
-        return firstNum;
+        return firstNum;ddsafs
+        sadffd
+        
 
 
     }
     public void setFirstNum(String firstNum) {ddd
-    
+
         
         this.firstNum = firstNum;
     }
