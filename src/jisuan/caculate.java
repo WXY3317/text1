@@ -8,8 +8,11 @@ public class caculate {
     private String result="0";
     public String getFirstNum() {
         return firstNum;
+
+
     }
-    public void setFirstNum(String firstNum) {
+    public void setFirstNum(String firstNum) {ddd
+    
         
         this.firstNum = firstNum;
     }
